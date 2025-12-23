@@ -2,6 +2,10 @@
 
 A Windows desktop application built with Electron and React that automatically captures screenshots of WhatsApp Web chats with configurable auto-scrolling and PDF generation.
 
+# Download
+https://github.com/bitbulltech/whatsapp-chat-screenshot-to-pdf/raw/refs/heads/main/release/WhatsApp%20Screenshot%20Capture-1.0.0-portable.exe
+
+Or download complete zip file of source code then find .exe file at path release/WhatsApp Screenshot Capture-1.0.0-portable.exe
 ## Features
 
 ### Core Features
