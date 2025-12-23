@@ -6,6 +6,14 @@ A Windows desktop application built with Electron and React that automatically c
 https://github.com/bitbulltech/whatsapp-chat-screenshot-to-pdf/raw/refs/heads/main/release/WhatsApp%20Screenshot%20Capture-1.0.0-portable.exe
 
 Or download complete zip file of source code then find .exe file at path release/WhatsApp Screenshot Capture-1.0.0-portable.exe
+
+
+# Contact
+Contact for more modifications or other windows/linux tools as per your requirements 
+
+Email: contact@bitbulltech.com or create issue https://github.com/bitbulltech/whatsapp-chat-screenshot-to-pdf/issues
+
+
 ## Features
 
 ### Core Features
@@ -272,3 +280,7 @@ Output will be in the `release/` directory:
 
 MIT
 
+
+# Contact
+Contact for more modifications or other windows/linus tools as per your requirements 
+Email: contact@bitbulltech.com or create issue https://github.com/bitbulltech/whatsapp-chat-screenshot-to-pdf/issues
