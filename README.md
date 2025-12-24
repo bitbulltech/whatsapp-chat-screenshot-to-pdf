@@ -11,7 +11,7 @@ Or download complete zip file of source code then find .exe file at path release
 # Contact
 Contact for more modifications or other windows/linux tools as per your requirements 
 
-Email: contact@bitbulltech.com or create issue https://github.com/bitbulltech/whatsapp-chat-screenshot-to-pdf/issues
+Visit: https://bitbulltech.com Email: contact@bitbulltech.com or create issue https://github.com/bitbulltech/whatsapp-chat-screenshot-to-pdf/issues
 
 
 ## Features
@@ -283,4 +283,4 @@ MIT
 
 # Contact
 Contact for more modifications or other windows/linus tools as per your requirements 
-Email: contact@bitbulltech.com or create issue https://github.com/bitbulltech/whatsapp-chat-screenshot-to-pdf/issues
+Visit: https://bitbulltech.com Email: contact@bitbulltech.com or create issue https://github.com/bitbulltech/whatsapp-chat-screenshot-to-pdf/issues
